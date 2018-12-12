@@ -23,6 +23,7 @@ description: A blog about games and a certain mysterious man
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
   Resume: "resume"
   Resources:
@@ -106,7 +107,7 @@ share-links-active:
 gtag: "UA-130801454-1"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-130801454-1"
+# google_analytics: "UA-130801454-1"
 
 # Google Tag Manager ID
 #gtm: ""
