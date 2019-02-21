@@ -6,7 +6,7 @@ subtitle: WIP
 
 <div class="posts-list">
   {% for post in paginator.posts %}
-    {% if post.tags contains easymigrate %}
+    {% if post.catagories contains easymigrate %}
       <article class="post-preview">
         <a href="{{ post.url | prepend: site.baseurl }}">
     	  <h2 class="post-title">{{ post.title }}</h2>
