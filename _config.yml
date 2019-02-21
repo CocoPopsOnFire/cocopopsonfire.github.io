@@ -83,7 +83,7 @@ share-links-active:
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
 # gtag: "UA-130801454-1"
 # Fill in your Google Analytics ID to track your website using GA
- google_analytics: "UA-130801454-1"
+google_analytics: "UA-130801454-1"
 # Google Tag Manager ID
 #gtm: ""
 
