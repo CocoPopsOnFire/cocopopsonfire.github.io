@@ -27,8 +27,8 @@ navbar-links:
   About Me: "aboutme"
   Resume: "resume"
   Projects:
-    - EasyMigrate: "EasyMigrateBlog"
-    - Untitled Game 1: "ProjectAmulet"
+    - EasyMigrate: "project_easymigrate"
+    - Untitled Game 1: "project_wolfgame"
   Resources:
     - How i built this site: "http://deanattali.com/beautiful-jekyll/"
     - How i hosted this site: "https://pages.github.com/"
