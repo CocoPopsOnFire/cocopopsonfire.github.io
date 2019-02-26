@@ -5,7 +5,7 @@ subtitle: WIP
 ---
 
 <ul>
-  {% for post in site.posts.catagories.easymigrate %}
+  {% for post in site.easymigrate %}
     <li>
         <h2>
         <a href="{{ post.url }}">{{ post.title }}</a>
