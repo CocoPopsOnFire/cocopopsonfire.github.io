@@ -5,14 +5,12 @@ subtitle: WIP
 ---
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.catagories.easymigrate %}
     <li>
-        {% if post.Tags == easymigrate %}
         <h2>
         <a href="{{ post.url }}">{{ post.title }}</a>
         </h2>
         {{ post.excerpt }}
-        {% endif %}
     </li>
   {% endfor %}
 </ul>
