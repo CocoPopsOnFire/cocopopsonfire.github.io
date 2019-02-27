@@ -1,7 +1,7 @@
 ---
 layout: page
 title: EasyMigrate Dev Blog
-subtitle: WIP
+subtitle: Simple C# utility to help migrate a set of folders easily
 ---
 
 <ul>
