@@ -4,7 +4,7 @@ title: About me
 subtitle: The man himself
 ---
 
-##Welcome to my Dev blog!
+<h2>Welcome to my Dev blog!</h2>
 
 This is where I'll be documenting my future projects and any ideas I have about gaming and programming in General
 
@@ -15,7 +15,7 @@ Things I would like to achieve with this blog:
 3. Remember what I have done just in case I break everything
 
 
-###A little bit about me
+<h3>A little bit about me</h3>
 
 I graduated university several years ago with a bachelors in electronics and computing. Ever since I have been chasing the dream of working with electronics and software.
 
